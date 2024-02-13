@@ -8,8 +8,8 @@
 body {
     width: 100%;
     min-height: 100vh;
-    background-color: rgb(12, 25, 27);
-    color: rgb(232, 198, 33);
+    background-color: rgb(8, 8, 8);
+    color: rgb(96, 33, 232);
     display: flex;
     justify-content: center;
     align-items: center;
@@ -32,14 +32,14 @@ main {
     justify-content: center;
     align-items: center;
     padding: 30px;
-    border: solid 2px rgb(232, 198, 33);
+    border: solid 2px rgb(61, 16, 174);
     border-radius: 8px;
 
     transition: ease-in-out 0.5s;
 }
 main:hover {
-    background-color: rgb(232, 198, 33);
-    color: rgb(12, 25, 27);
+    background-color: rgb(81, 32, 206);
+    color: rgb(0, 0, 0);
 }
 main div {
     display: flex;
